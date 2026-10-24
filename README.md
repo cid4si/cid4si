@@ -14,7 +14,7 @@
 
   I’m always trying to learn anything related to technology and, somewhere along the way, I started trying to learn how to code.
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=cid4si&color=00d4ff&style=for-the-badge)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=cid4si&color=00d4ff&style=plastic)
 
   <br clear="left"/>
 
@@ -22,7 +22,7 @@
 
   ### Skills
 
-  [![My Skills](https://skillicons.dev/icons?i=debian,vscode,github,docker,py,js,html,css,figma,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=debian,github,vscode,powershell,py,js,html,css,figma,postman)](https://skillicons.dev)
 
   ---
 
